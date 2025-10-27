@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Le The Phuc 👋</h1>
+<h1 align="center">Hi, I'm Le The Phuc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">Software Developer | Frontend & Full-Stack</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phucle1010&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">
   <a href="https://pucklee.vercel.app">Portfolio</a> •
@@ -16,63 +20,6 @@
 I'm a software developer who enjoys turning ideas into working products. With a passion for clean and efficient code, I've been building full-stack web apps using React, Next.js, Node.js, and MySQL. I thrive on solving complex problems, collaborating with others, and continuously expanding my skills to create robust and user-friendly digital experiences.
 
 I care about writing maintainable code, working with great people, and always learning something new. If you're working on something interesting or just want to chat about tech, feel free to reach out!
-
----
-
-## 🚀 Projects & Experience
-
-### Warp AI
-
-**Frontend Developer @ Hiptech Solution**
-
-Developed a web-based app installer with real-time SignalR updates and deep integration to a C# backend. Delivered fast and user-friendly enterprise deployments.
-
-- Real-time updates with SignalR
-- Deep C# backend integration
-- Enterprise-level deployment solution
-
-### Magicblocks AI Chatbot
-
-**Full Stack Developer @ MagicBlocks, Inc.**
-
-Engineered an embeddable AI chatbot platform with strong authentication, multi-channel agent support, and performance optimization using Cloudflare and Vercel.
-
-- Embeddable chatbot platform
-- Multi-channel agent support
-- Performance optimization with Cloudflare & Vercel
-- Strong authentication system
-
-### Tinda Job
-
-**Mobile Developer - Project Manager @ AZUBI IN GERMANY**
-
-Led development and project management for a mobile app connecting companies and job seekers, using Agile methodology and React Native.
-
-- Mobile app connecting companies and job seekers
-- Agile project management
-- React Native development
-
-### Block24
-
-**Frontend Developer @ TradecoinVN**
-
-Developed a scalable crypto trading and news platform with Next.js, integrating Web3 wallet support and focusing on speed, SEO, and UI/UX improvements.
-
-- Crypto trading platform
-- Web3 wallet integration
-- Next.js performance optimization
-- SEO and UI/UX improvements
-
-### Order Food - Cardwatch POS
-
-**Frontend Developer @ Cardwatch**
-
-Created a modular food ordering and POS app, published a reusable UI library, and enabled seamless printing and offline PWA support.
-
-- Modular architecture
-- Reusable UI library
-- Offline PWA support
-- Seamless printing functionality
 
 ---
 
@@ -101,3 +48,30 @@ Created a modular food ordering and POS app, published a reusable UI library, an
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=phucle1010&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" align="left" />
+
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=phucle1010&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" align="left" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucle1010/phucle1010/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucle1010/phucle1010/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phucle1010/phucle1010/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📞 Get In Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+
+- 📧 **Email:** [lethephuc2002@gmail.com](mailto:lethephuc2002@gmail.com)
+- 📱 **Phone:** (+84) 368341595
+- 📍 **Location:** Ho Chi Minh City, Viet Nam
+- 💼 **LinkedIn:** [phuc-le-bab721189](https://www.linkedin.com/in/phuc-le-bab721189)
+- 🌐 **Portfolio:** [pucklee.vercel.app](https://pucklee.vercel.app)
+- 💻 **GitHub:** [@phucle1010](https://github.com/phucle1010)
